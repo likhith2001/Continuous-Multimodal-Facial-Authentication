@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../.git"
+		},
+		{
+			"path": "../.gitignore"
+		},
+		{
+			"path": "../data"
+		},
+		{
+			"path": "../notebooks"
+		},
+		{
+			"path": "../results"
+		},
+		{
+			"path": "../saved_models"
+		},
+		{
+			"path": "."
+		}
+	]
+}

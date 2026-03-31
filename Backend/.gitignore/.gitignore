@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pth
+*.npy
+*.avi
+*.mp4
+.DS_Store
+vsa-workspace.code-workspace

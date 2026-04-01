@@ -314,6 +314,7 @@ The frontend provides a cybersecurity-themed HUD (Heads-Up Display) built with R
 
 ## 🙏 Acknowledgments
 
+- [Visual Speaker Authentication](https://github.com/poojap13/visual-speaker-authentication) - By Pooja Pathare
 - [dlib](http://dlib.net/) — Face detection and landmark prediction
 - [learn2learn](https://github.com/learnables/learn2learn) — MAML implementation
 - [FaceForensics++](https://github.com/ondyari/FaceForensics) — Forgery detection benchmark
